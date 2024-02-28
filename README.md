@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepali Sharma</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalisharma09&label=Profile%20views&color=0e75b6&style=flat" alt="deepalisharma09" /> </p>
 
 - 📫 How to reach me **deepalis.seo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepali-sharma-8234b939?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepali-sharma-8234b939?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

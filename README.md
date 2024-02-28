@@ -1,3 +1,4 @@
+![logo](https://github.com/DeepaliSharma09/DeepaliSharma09/blob/main/Deepali%20Sharma.png)
 <h1 align="center">Hi 👋, I'm Deepali Sharma</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
